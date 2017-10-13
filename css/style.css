@@ -49,7 +49,13 @@ button:hover {
   text-decoration: none;
 }
 input{
-max-width:99%;
+  max-width:99%;
+}
+
+.follow{
+  font-family: 'Permanent Marker', cursive;
+  font-size: 1.5em;   
+  color:grey;
 }
 
 @media only screen and (max-width:680px){
@@ -100,5 +106,15 @@ button{
 button:hover {
   background: #e8fad4;
   text-decoration: none;
+}
+
+input{
+  max-width:99%;
+}
+
+.follow{
+  font-family: 'Permanent Marker', cursive;
+  font-size: 1em;   
+  color:grey;
 }
 }
