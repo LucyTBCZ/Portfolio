@@ -1,0 +1,42 @@
+.container{
+    background-color:grey;
+    
+}
+
+.image{
+    margin-top:100px;
+    margin-bottom:100px;
+}
+
+.paragraphe{
+    background-color:lightgrey;
+    margin-top:100px;
+    border: solid 2px black;
+    border-radius:5px;
+    font: 30px Courier New, sans-serif;
+    text-align:center;
+    
+}
+
+.formulaire{
+    padding:20px;
+    margin-top:100px;
+    background-color:lightgrey;
+    border: solid 2px black;
+    border-radius:5px;
+}
+
+button{
+  border-radius: 28px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 20px;
+  background: #ed4e2b;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+button:hover {
+  background: #4b4c4d;
+  text-decoration: none;
+}
